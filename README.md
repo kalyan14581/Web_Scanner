@@ -23,8 +23,8 @@ python3 --version
 
 Steps
 
-Clone the repository:git clone https://github.com/your-username/web-vuln-scanner.git
-cd web-vuln-scanner
+Clone the repository:git clone [https://github.com/your-username/web-vuln-scanner.git](https://github.com/kalyan14581/Web_Scanner.git)
+cd web_scanner
 
 
 Create a virtual environment:python3 -m venv venv
