@@ -76,7 +76,8 @@ Limited to XSS, SQLi, and CSRF detection; expand payloads for broader coverage.
 Crawling depth is capped at 2 to avoid excessive requests.
 No authentication handling; extend for protected sites.
 
-![Screenshot 2025-06-15 182715](https://github.com/user-attachments/assets/6530fcb4-699b-423f-ae45-34f555ffcd73)
+
+
 
 ![Screenshot 2025-06-15 183157](https://github.com/user-attachments/assets/8b052c9d-0a14-4959-a3d3-86e156a15c82)
 ![Screenshot 2025-06-15 183212](https://github.com/user-attachments/assets/baccb00b-23b0-4601-b555-02b84fe5d4c6)
